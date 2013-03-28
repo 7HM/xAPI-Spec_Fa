@@ -1,4 +1,4 @@
 xAPI-Spec_Fa
 ============
 
-Translating the Experience API Specification
+Translating the Experience API Specification into Persian
